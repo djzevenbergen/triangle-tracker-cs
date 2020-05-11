@@ -1,0 +1,17 @@
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.csprojAssemblyReference.cache
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.csproj.CoreCompileInputs.cache
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.AssemblyInfoInputs.cache
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.AssemblyInfo.cs
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.Tests.deps.json
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.Tests.runtimeconfig.json
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.Tests.runtimeconfig.dev.json
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.Tests.dll
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.Tests.pdb
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.dll
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/bin/Debug/netcoreapp2.2/Triangle-Tracker.pdb
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.csproj.CopyComplete
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.dll
+/Users/davidzevenbergen/Desktop/epicodus-csharp-wk2/triangle-tracker/Triangle-Tracker.Solution/Triangle-Tracker.Tests/obj/Debug/netcoreapp2.2/Triangle-Tracker.Tests.pdb
