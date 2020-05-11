@@ -47,5 +47,13 @@ namespace TriangleTracker.TestTools
       Triangle tri = new Triangle();
       Assert.AreEqual(true, tri.IsTriangle("2", "2", "3"));
     }
+    [TestMethod]
+    public void IsTriangle_NoSidesAreEqual_True()
+    {
+      Triangle tri = new Triangle();
+      Assert.AreEqual(true, tri.IsTriangle("2", "3", "4"));
+    }
+
+
   }
 }
